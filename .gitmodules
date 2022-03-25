@@ -4,3 +4,9 @@
 [submodule "plugins/start/snipMate"]
 	path = plugins/start/snipMate
 	url = https://github.com/garbas/vim-snipmate.git
+[submodule "dependencies/start/tlib"]
+	path = dependencies/start/tlib
+	url = https://github.com/tomtom/tlib_vim.git
+[submodule "dependencies/start/mw-utils"]
+	path = dependencies/start/mw-utils
+	url = https://github.com/MarcWeber/vim-addon-mw-utils.git
