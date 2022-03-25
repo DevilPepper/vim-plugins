@@ -1,0 +1,6 @@
+[submodule "plugins/start/vim-colors-solarized"]
+	path = plugins/start/vim-colors-solarized
+	url = https://github.com/altercation/vim-colors-solarized.git
+[submodule "plugins/start/snipMate"]
+	path = plugins/start/snipMate
+	url = https://github.com/garbas/vim-snipmate.git
